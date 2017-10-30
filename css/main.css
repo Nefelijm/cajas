@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+}
+
+.big-box{
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+  position: relative;
+}
+.medium-box{
+  width: 150px;
+  height: 150px;
+  top:75px;
+  left: 75px;
+  position: absolute;
+}
+
+.little-box{
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
+
+.red-box{
+  background-color: red;
+}
+
+.purple-box{
+  background-color: purple;
+}
+
+.yellow-box{
+  background-color: yellow;
+}
+
+.blue-box{
+  background-color: blue;
+}
+
+.green-box{
+  background-color: green;
+}
+
+.black-box{
+  background-color: black;
+}
